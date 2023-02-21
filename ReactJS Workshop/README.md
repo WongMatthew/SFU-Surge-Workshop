@@ -1,5 +1,9 @@
 # ReactJS Workshop
 
+## ReactJS Workshop Figma
+
+tba
+
 ## Promo Message
 
 Hey tech-savvy students!
@@ -13,9 +17,3 @@ Don't worry if you're new to ReactJS, our hands-on workshop will guide you throu
 Registration is easy and there's no deadline! Drop-ins are welcome! Register now at https://organize.mlh.io/participants/events/9293-sfu-surge-road-to-stormhacks-react-website-quickstart
 
 Can't make it to Burnaby campus? No problem! We'll also be hosting the SAME workshop on March 31st at Surrey campus. Stay tuned for sign-up details and don't miss out on another opportunity to elevate your coding skills and enjoy some delicious pizza! 
-
-## ReactJS Workshop Figma
-
-tba
- 
-
