@@ -1,6 +1,6 @@
-# ReactJS Workshop
+# ReactJS #1 Workshop
 
-## ReactJS Workshop Figma
+## ReactJS #1 Workshop Figma
 
 tba
 
