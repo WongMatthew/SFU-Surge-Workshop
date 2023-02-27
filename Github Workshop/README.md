@@ -4,6 +4,13 @@
  
 https://www.figma.com/file/iuQIPQeMomBT25SgwMaGJp/Git-Workshop?node-id=0%3A1&t=w9qvYvsx4xfn79VM-1
 
+## Git Resources
+
+Git Website: https://git-scm.com/
+Git Cheat Sheet: https://i.redd.it/8341g68g1v7y.png
+Git Installation: https://github.com/git-guides/install-git
+GitHub Student Developer Pack: https://education.github.com/pack
+
 ## Promo Message
 
 Inviting all students interested in tech!
