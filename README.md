@@ -23,3 +23,4 @@ https://www.figma.com/file/gM2aDFH9QbQn0F90BMJD2Q/Workshop-Promo-Cards?t=w9qvYvs
 - [NWHacks ReactJS](https://docs.google.com/presentation/d/1l2HjhWJBQEKnsFs3KW83H2YxIaPKJ693bQ5NL5DmTjs/edit#slide=id.g1e89ebcad84_0_1387)
 - [NWHacks Frontend w/ ReactJS & Heroku](https://docs.google.com/presentation/d/1sgHw0Q7RalZyV7h0EbKBgB5BqSYNKovZFvKiiNBOWxE/edit#slide=id.g10489da74b9_0_1)
 - [NWHacks Frontend w/ ReactjS & Heroku Notion](https://nwplus.notion.site/nwPlus-Frontend-w-React-Heroku-da642151920e4294b388581895c253ec)
+- [GryphHacks ReactJS](https://docs.google.com/presentation/d/1Jf1MVFlz5ItMMwJLRF3XDfJv0KKyFJ6y/edit?usp=sharing&ouid=102952760813594162806&rtpof=true&sd=true)
