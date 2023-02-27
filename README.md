@@ -21,3 +21,5 @@ https://www.figma.com/file/gM2aDFH9QbQn0F90BMJD2Q/Workshop-Promo-Cards?t=w9qvYvs
 - [NwHacks UX/UI](https://www.figma.com/file/sVANUXonw5MN036bS9fgv6/UBC-CSS-x-nwPlus%3A-UX-%26-UI-Workshop-(DUPLICATE-BEFORE-USE)?node-id=0%3A1&t=yj3zdP6PCNvv0poU-0)
 - [NwHacks WebDev](https://docs.google.com/presentation/d/1oCpwV7RJVkz66mL8C3NWEk6PjxljLV1SKoq9o_MMg0o/edit?usp=sharing)
 - [NWHacks ReactJS](https://docs.google.com/presentation/d/1l2HjhWJBQEKnsFs3KW83H2YxIaPKJ693bQ5NL5DmTjs/edit#slide=id.g1e89ebcad84_0_1387)
+- [NWHacks Frontend w/ ReactJS & Heroku](https://docs.google.com/presentation/d/1sgHw0Q7RalZyV7h0EbKBgB5BqSYNKovZFvKiiNBOWxE/edit#slide=id.g10489da74b9_0_1)
+- [NWHacks Frontend w/ ReactjS & Heroku Notion](https://nwplus.notion.site/nwPlus-Frontend-w-React-Heroku-da642151920e4294b388581895c253ec)
