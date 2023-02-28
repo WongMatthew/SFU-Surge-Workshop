@@ -1,6 +1,8 @@
 # SFU Surge Workshop
  Collection of all workshop materials
  
+## [MLH Pizza Fund Event Registration](https://organize.mlh.io/host/pizza-fund-event)
+ 
 ## Promo Cards
 
 https://www.figma.com/file/gM2aDFH9QbQn0F90BMJD2Q/Workshop-Promo-Cards?t=w9qvYvsx4xfn79VM-1
