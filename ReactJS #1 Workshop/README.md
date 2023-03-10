@@ -4,6 +4,11 @@
 
 https://www.figma.com/file/XL9PJ4KMlwLNDx09VzW7Db/Intro-to-Web-Dev-%2F-React-Workshop?node-id=0%3A1&t=8zeq5YHL1HldUuAJ-1
 
+## Workshop websites
+
+*(html/css/js)[https://github.com/WongMatthew/WebdevWorkshop-example-website]
+*(reactjs)[https://github.com/WongMatthew/ReactWorkshop1-example-website]
+
 ## Promo Message
 
 Hey tech-savvy students!
