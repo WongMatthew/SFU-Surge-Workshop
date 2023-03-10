@@ -5,5 +5,5 @@ jokeButton.addEventListener("click", function () {
 });
 
 // jokeButton.onclick = function () {
-//   alert("Justin Beaver! :)");
+//   alert("A little (h)otter! :)");
 // };
