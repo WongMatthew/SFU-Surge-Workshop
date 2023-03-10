@@ -6,8 +6,8 @@ https://www.figma.com/file/XL9PJ4KMlwLNDx09VzW7Db/Intro-to-Web-Dev-%2F-React-Wor
 
 ## Workshop websites
 
-*(html/css/js)[https://github.com/WongMatthew/WebdevWorkshop-example-website]
-*(reactjs)[https://github.com/WongMatthew/ReactWorkshop1-example-website]
+* [html/css/js](https://github.com/WongMatthew/WebdevWorkshop-example-website)
+* [reactjs](https://github.com/WongMatthew/ReactWorkshop1-example-website)
 
 ## Promo Message
 
