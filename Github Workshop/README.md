@@ -2,7 +2,7 @@
 
 ## Github Workshop Figma
  
-https://www.figma.com/file/iuQIPQeMomBT25SgwMaGJp/Git-Workshop?node-id=0%3A1&t=w9qvYvsx4xfn79VM-1
+https://www.figma.com/file/XL9PJ4KMlwLNDx09VzW7Db/Intro-to-Web-Dev-%2F-React-Workshop?node-id=0%3A1&t=LcIMxXwATPcFm8WM-1
 
 ## Git Resources
 
